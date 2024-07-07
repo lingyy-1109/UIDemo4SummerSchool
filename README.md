@@ -14,7 +14,7 @@ This is a simple PyQt5 application that allows users to load an image from their
 - PyQt5
 
 ## Installation
-
+If you just want to run the code, you can follow the instructions below:
 1. Clone the repository or download the source code.
 2. Make sure you have Python 3.x installed.
 3. Install the required packages using pip:
@@ -22,6 +22,8 @@ This is a simple PyQt5 application that allows users to load an image from their
     ```sh
     pip install PyQt5
     ```
+
+However, if you want to edit the ui files, you are preferred to download the Qt Creator and PYUIC plugin in the PyCharm. You can follow the instructions in the mission PDF to finish the installations
 
 ## Usage
 
