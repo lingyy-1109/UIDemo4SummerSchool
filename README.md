@@ -23,7 +23,7 @@ If you just want to run the code, you can follow the instructions below:
     pip install PyQt5
     ```
 
-However, if you want to edit the ui files, you are preferred to download the Qt Creator and PYUIC plugin in the PyCharm. You can first download PyCharm IDE and follow the link below:
+**However, if you want to edit the ui files, you are preferred to download the Qt Creator and PYUIC plugin in the PyCharm. You can first download PyCharm IDE and follow the link below:**
 https://blog.csdn.net/qq_45041871/article/details/113775749
 
 ## Usage
